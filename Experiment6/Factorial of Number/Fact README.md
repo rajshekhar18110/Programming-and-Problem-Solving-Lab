@@ -22,7 +22,7 @@ Write a Python program to calculate the factorial of a number n using loops.
 
 ## Flowchart
 <p align="center">
-  <img src="Increment date.jpg" width="900">
+  <img src="fact.drawio.png" width="900">
 </p
 
 ---
