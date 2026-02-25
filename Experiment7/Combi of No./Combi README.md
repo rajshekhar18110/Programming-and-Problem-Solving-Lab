@@ -22,7 +22,7 @@ Write a Python program to accept three digits and print all possible 3-digit com
 
 ## Flowchart
 ![Flowchart](
-Pattern.drawio.png)
+Combi.drawio.png)
 
 ---
 
