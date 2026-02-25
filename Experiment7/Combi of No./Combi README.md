@@ -28,7 +28,7 @@ Combi.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Pattern.png" width="900">
+  <img src="Combi.png" width="900">
 </p>
 
 
