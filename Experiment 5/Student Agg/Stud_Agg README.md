@@ -1,4 +1,3 @@
-
 ## Problem Statement
 Write a program to calculate the total marks, aggregate percentage, and grade of a student based on marks in four subjects. The grade is determined as follows:
 
