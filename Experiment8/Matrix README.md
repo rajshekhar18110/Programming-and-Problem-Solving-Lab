@@ -1,5 +1,5 @@
 ## Problem Statement
-Write a Python program to accept three digits and print all possible 3-digit combinations that can be formed using those three digits. Each digit should be used exactly once in each combination.
+Write a Python program to perform the multiplication of two square matrices. The program should take two matrices as input and output their product
 
 ---
 
