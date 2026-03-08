@@ -19,13 +19,13 @@ Write a Python program to print all prime numbers within a given range (inclusiv
 
 7.Check condition:
 
-  If num % i == 0 → break (number is not prime).
+       If num % i == 0 → break (number is not prime).
 
 8.If no divisor is found, then:
 
-  Print num
+      Print num
 
-  Set found = True.
+     Set found = True.
 
 9.After the loop, check found.
 
