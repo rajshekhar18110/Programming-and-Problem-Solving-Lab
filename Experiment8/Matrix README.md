@@ -3,7 +3,7 @@ Write a Python program to perform the multiplication of two square matrices. The
 
 ---
 
-1.Start
+1.Start.
 2.Input the order n of the square matrices.
 3.Input elements of Matrix A and Matrix B.
 4.Create a result matrix R of size n × n and initialize all elements to 0.
