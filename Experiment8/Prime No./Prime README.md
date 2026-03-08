@@ -37,13 +37,13 @@ Write a Python program to print all prime numbers within a given range (inclusiv
 
 ## Flowchart
 ![Flowchart](
-Matrix.drawio.png)
+Prime.drawio.png)
 
 ---
 
 ## Execution
 <p align="center">
-  <img src="Matrix.png" width="900">
+  <img src="Prime.png" width="900">
 </p>
 
 
