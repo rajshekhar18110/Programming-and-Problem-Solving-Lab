@@ -33,13 +33,13 @@ Write a Python program to perform the multiplication of two square matrices. The
 
 ## Flowchart
 ![Flowchart](
-Pattern.drawio.png)
+Matrix.drawio.png)
 
 ---
 
 ## Execution
 <p align="center">
-  <img src="Pattern.png" width="900">
+  <img src="Matrix.png" width="900">
 </p>
 
 
