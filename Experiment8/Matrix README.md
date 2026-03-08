@@ -30,7 +30,7 @@ Write a Python program to perform the multiplication of two square matrices. The
 
 ## Flowchart
 ![Flowchart](
-Combi.drawio.png)
+Matrix.drawio.png)
 
 ---
 
