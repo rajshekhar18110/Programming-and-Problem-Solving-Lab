@@ -31,7 +31,7 @@ Palin.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="VC.png" width="900">
+  <img src="Palin.png" width="900">
 </p>
 
 
