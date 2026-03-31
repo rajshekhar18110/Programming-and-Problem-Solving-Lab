@@ -9,17 +9,15 @@ Write a Python program to remove all punctuation marks from a given string and p
 
 2.Read string st
 
-3.Find length n
+3.Set new_str = ""
 
-4.Set flag = True
+4.Traverse each character
 
-5.Compare characters from start and end
+5.If character is alphanumeric or space → add to new_str
 
-6.If mismatch → flag = False
+6.Print new_str
 
-7.If flag true → Palindrome else Not Palindrome
-
-8.Stop
+7.Stop
 
 ---
 
