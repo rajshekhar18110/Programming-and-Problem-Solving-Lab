@@ -23,7 +23,7 @@ Write a Python program that reads an integer, calculates the sum of its digits, 
 
 ## Flowchart
 ![Flowchart](
-RP.drawio.png)
+Sum.drawio.png)
 
 ---
 
