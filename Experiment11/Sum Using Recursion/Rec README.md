@@ -29,7 +29,7 @@ Rec.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="REV.png" width="900">
+  <img src="Rec.png" width="900">
 </p>
 
 
