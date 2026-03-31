@@ -7,17 +7,23 @@ Write a Python program that prints the reverse of a given input string. The prog
 ## Algorithm
 1.Start
 
-2.Read string st
+2.Define function to reverse string
 
-3.Set new_str = ""
+3.Initialize empty string
 
-4.Traverse each character
+4.Traverse string in reverse order
 
-5.If character is alphanumeric or space → add to new_str
+5.Append characters to new string
 
-6.Print new_str
+6.Return reversed string
 
-7.Stop
+7.Input string
+
+8.Call function
+
+9.Print original and reversed string
+
+10.Stop
 
 ---
 
