@@ -12,8 +12,11 @@ Write a Python program to manage a phone number database using a dictionary. The
 3.Read number of operations
 
 4.For each operation:
+
   If ADD → insert contact
+  
   If REMOVE → delete contact
+  
   If DISPLAY → print all contacts (sorted) or "No contacts"
   
 5.Stop
