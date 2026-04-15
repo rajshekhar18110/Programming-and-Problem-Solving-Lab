@@ -1,25 +1,32 @@
 
 ## Problem Statement
-Write a Python program to take a string as input and check whether the given string is a palindrome or not. A palindrome is a string that reads the same forwards and backward.
+Write a Python program using modular programming to generate the Fibonacci sequence up to a given maximum value.
 
 ---
 
 ## Algorithm
-1.Start
+Step 1: Start
 
-2.Read string st
+Step 2: Input integer n
 
-3.Find length n
+Step 3: If n ≤ 0
+            Print "Please enter a positive integer"
+            Stop
 
-4.Set flag = True
+Step 4: Initialize:
+            a ← 0
+            b ← 1
+            seq ← empty list
 
-5.Compare characters from start and end
+Step 5: While a ≤ n do
+            Add a to seq
+            temp ← a + b
+            a ← b
+            b ← temp
 
-6.If mismatch → flag = False
+Step 6: Print all elements of seq
 
-7.If flag true → Palindrome else Not Palindrome
-
-8.Stop
+Step 7: Stop
 
 ---
 
